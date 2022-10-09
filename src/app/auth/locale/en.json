@@ -1,0 +1,8 @@
+{
+  "auth": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "testEmail": "Test email",
+    "testPass": "Test password"
+  }
+}
